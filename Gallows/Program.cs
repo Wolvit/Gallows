@@ -1,4 +1,8 @@
-﻿namespace Šibenice_Hra
+using System;
+using System.IQ;
+using System.Linq;
+
+namespace Šibenice_Hra
 {
     internal class Program
     {
